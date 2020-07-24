@@ -8,7 +8,7 @@ Purple is a concise and flat theme based on OpenWrt's web management interface. 
 
 * Otherwise you can use LuCI feed from [here](https://github.com/rosywrt/luci).
 
-## Contact
+## Contact us
 * Bug Report : https://github.com/rosywrt/luci-theme-purple/issues
 
 * QQ Gourp : 428742246
@@ -22,7 +22,7 @@ LuCI Theme Bootstrap: Copyright 2012 Nut & Bolt
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 
-## GIF map
+## GIF map 
 <div align=center><img src="https://raw.githubusercontent.com/rosywrt/luci-theme-purple/master/previews/purple-gif.gif" alt="login-pc"/></div>
 
 ## Previews on PC
